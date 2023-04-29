@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Kiddy kart",
+  "short_name": "kiddy",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -23,7 +23,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#EEF0F4",
+  "theme_color": "red",
   "background_color": "#EEF0F4",
   "display": "standalone"
 }
